@@ -1,6 +1,5 @@
 # NLP Review Cleaning Pipeline
 import re
-
 import pandas as pd
 df=pd.read_csv(r"C:\MEGA\nlp_reviews_dataset.csv")
 df
